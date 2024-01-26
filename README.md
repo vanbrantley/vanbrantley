@@ -1,6 +1,6 @@
 Hello and welcome to my profile!
 
-My name is Van, and I am a full-stack developer that loves using technology to make tools relating to my interests in music, sports, and fashion.
+My name is Van, and I'm a full-stack developer that loves using technology to make tools relating to my interests in music, sports, and fashion.
 
 Most of my work is done using Next.js, MobX, TailwindCSS, and Python.
 
