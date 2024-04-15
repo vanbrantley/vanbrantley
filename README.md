@@ -2,7 +2,7 @@
 
 My name is Van, and I'm a full-stack developer that loves using technology to make tools relating to my interests in music, sports, and fashion.
 
- 💬 If you find my work interesting and would like to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanbrantley/)
+ If you find my work interesting and would like to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanbrantley/)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
