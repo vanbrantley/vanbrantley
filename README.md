@@ -2,12 +2,6 @@
 
 My name is Van, and I'm a full-stack developer that loves using technology to make tools relating to my interests in music, sports, and fashion.
 
-Most of my work is done using Next.js, MobX, TailwindCSS, and Python.
-
-🌱 I'm currently learning about cloud development, and am on the path to becoming an AWS Certified Developer
-
-<!-- 💯 As of _____ I am participating in the #100DaysOfCode challenge, where I will be steadily building a social music web application using Spotify's Web API -->
-
  💬 If you find my work interesting and would like to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanbrantley/)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
