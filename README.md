@@ -1,9 +1,11 @@
-## Hello and welcome to my profile
+## Hello and welcome to my profile -
 
 My name is Van, and I'm a full-stack developer that loves using technology to make tools relating to my interests in music, sports, and fashion.
 
 If you find my work interesting and would like to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanbrantley/)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,5 +26,3 @@ If you find my work interesting and would like to chat, feel free to connect wit
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
