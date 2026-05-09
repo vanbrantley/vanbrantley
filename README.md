@@ -28,7 +28,7 @@ I specialize in building automated data pipelines and turning complex datasets i
 *Developed a **Value Over Expected (VOE)** model for 2,400+ draft picks, followed by **K-means clustering** and **Binomial Significance testing** to identify scouting biases and developmental outliers.*
 * **Status:** Complete
 * **Stack:** Python, Scikit-learn, SQLite
-* **Link:** [View Repository](https://https://github.com/vanbrantley/nhl-draft-analysis)
+* **Link:** [View Repository](https://github.com/vanbrantley/nhl-draft-analysis)
 
 ## 🏗 Currently Building: NYC Data Job Market Tracker
 *Automating the ingestion of entry-level job postings to analyze salary trends and skill requirements in real-time.*
