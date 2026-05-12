@@ -36,8 +36,8 @@ I specialize in building automated data pipelines and turning complex datasets i
 * **Stack:** Airbyte, Snowflake, dbt, Looker Studio
 * **Target Completion:** June 6, 2026
 
+<!--
 ---
-
 ## 📫 Connect with me
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanbrantley) -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://vanbrantley.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanbrantley)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://vanbrantley.com)  -->
