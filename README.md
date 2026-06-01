@@ -15,7 +15,7 @@ I specialize in building automated data pipelines and turning complex datasets i
 **Data Engineering (Modern Data Stack)**  
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-6134f9?style=for-the-badge&logo=airbyte&logoColor=white)
+<!-- ![Airbyte](https://img.shields.io/badge/Airbyte-6134f9?style=for-the-badge&logo=airbyte&logoColor=white) -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Visualization & BI**  
