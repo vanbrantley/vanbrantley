@@ -1,5 +1,5 @@
 ## Data Analyst & Analytics Engineer | NYC
-I specialize in building automated data pipelines and turning complex datasets into actionable insights. Currently focusing on the Modern Data Stack (Snowflake, dbt, Airbyte) to solve high-impact problems.
+I specialize in building automated data pipelines and turning complex datasets into actionable insights. Currently focusing on the Modern Data Stack (Snowflake, dbt) to solve high-impact problems.
 
 ---
 
