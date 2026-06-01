@@ -27,13 +27,13 @@ I specialize in building automated data pipelines and turning complex datasets i
 ## 📈 Featured Project: NHL Draft Efficiency Analysis
 *Developed a **Value Over Expected (VOE)** model for 2,400+ draft picks, followed by **K-means clustering** and **Binomial Significance testing** to identify scouting biases and developmental outliers.*
 * **Status:** Complete
-* **Stack:** Python, Scikit-learn, SQLite
+* **Stack:** Python, Scikit-learn, SQLite, Tableau
 * **Link:** [View Repository](https://github.com/vanbrantley/nhl-draft-analysis)
 
 ## 🏗 Currently Building: NYC Data Job Market Tracker
 *Automating the ingestion of entry-level job postings to analyze salary trends and skill requirements in real-time.*
 * **Status:** In Progress
-* **Stack:** Airbyte, Snowflake, dbt, Looker Studio
+* **Stack:** Snowflake, dbt, Tableau
 * **Link:** [View Repository](https://github.com/vanbrantley/nyc-data-job-market-tracker)
 * **Target Completion:** June 19, 2026
 
