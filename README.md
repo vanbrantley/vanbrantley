@@ -34,7 +34,7 @@ I specialize in building automated data pipelines and turning complex datasets i
 *Automating the ingestion of entry-level job postings to analyze salary trends and skill requirements in real-time.*
 * **Status:** In Progress
 * **Stack:** Airbyte, Snowflake, dbt, Looker Studio
-* **Target Completion:** June 6, 2026
+* **Target Completion:** June 19, 2026
 
 <!--
 ---
