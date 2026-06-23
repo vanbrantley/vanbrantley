@@ -1,5 +1,6 @@
-## Data Analyst & Analytics Engineer | NYC
-I specialize in building automated data pipelines and turning complex datasets into actionable insights. Currently focusing on the Modern Data Stack (Snowflake, dbt) to solve high-impact problems.
+## Analytics Engineer | NYC
+
+I build ELT pipelines and dbt models that turn messy, multi-source data into something a dashboard can actually trust. Recent work: a production pipeline ingesting and enriching NYC job postings across 3 sources, deployed on Snowflake + Streamlit.
 
 ---
 
