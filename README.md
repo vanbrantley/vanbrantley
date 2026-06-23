@@ -22,7 +22,14 @@ I specialize in building automated data pipelines and turning complex datasets i
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+<!--
 ---
+
+## 🏗 Featured Project: NYC Data Job Market Tracker
+*Automating the ingestion of entry-level job postings to analyze salary trends and skill requirements in real-time.*
+* **Status:** Complete
+* **Stack:** Snowflake, dbt, Tableau
+* **Link:** [View Repository](https://github.com/vanbrantley/nyc-data-job-market-tracker)
 
 ## 📈 Featured Project: NHL Draft Efficiency Analysis
 *Developed a **Value Over Expected (VOE)** model for 2,400+ draft picks, followed by **K-means clustering** and **Binomial Significance testing** to identify scouting biases and developmental outliers.*
@@ -30,14 +37,6 @@ I specialize in building automated data pipelines and turning complex datasets i
 * **Stack:** Python, Scikit-learn, SQLite, Tableau
 * **Link:** [View Repository](https://github.com/vanbrantley/nhl-draft-analysis)
 
-## 🏗 Currently Building: NYC Data Job Market Tracker
-*Automating the ingestion of entry-level job postings to analyze salary trends and skill requirements in real-time.*
-* **Status:** In Progress
-* **Stack:** Snowflake, dbt, Tableau
-* **Link:** [View Repository](https://github.com/vanbrantley/nyc-data-job-market-tracker)
-* **Target Completion:** June 19, 2026
-
-<!--
 ---
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanbrantley)
