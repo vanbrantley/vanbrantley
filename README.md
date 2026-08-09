@@ -1,4 +1,4 @@
-## Analytics Engineer | NYC
+## Engineer | NYC
 
 I build ELT pipelines and dbt models that turn messy, multi-source data into something a dashboard can actually trust. 
 
