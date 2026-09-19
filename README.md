@@ -2,7 +2,7 @@
 
 I build full-stack apps and data pipelines, with reporting built in so I always know what's happening inside them.
 
-Recent work: NYC Data Job Market Tracker — a production ELT pipeline ingesting job postings across 3 sources into a live dashboard (Snowflake + Streamlit) · Subway Quest — a mobile app for exploring the NYC subway, with a live usage dashboard
+Recent work: NYC Data Job Market Tracker — a production ELT pipeline ingesting job postings across 3 sources into a live dashboard (Snowflake + Streamlit) · Subway Quest — a mobile app for exploring the NYC subway, with a live usage dashboard.
 
 ---
 
