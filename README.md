@@ -1,12 +1,19 @@
 ## Engineer | NYC
 
-I build ELT pipelines and dbt models that turn messy, multi-source data into something a dashboard can actually trust. 
+I build full-stack apps and data pipelines, with reporting built in so I always know what's happening inside them.
 
-Recent work: a production pipeline ingesting and enriching NYC job postings across 3 sources, deployed on Snowflake + Streamlit.
+Recent work: NYC Data Job Market Tracker — a production ELT pipeline ingesting job postings across 3 sources into a live dashboard (Snowflake + Streamlit) · Subway Quest — a mobile app for exploring the NYC subway, with a live usage dashboard
 
 ---
 
 ### 🛠 Technical Toolbox
+
+**Full-Stack Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Languages & Core Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
